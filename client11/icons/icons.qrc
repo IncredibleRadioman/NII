@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>refresh.png</file>
+        <file>ok.png</file>
+        <file>connect.png</file>
+        <file>disconnect.png</file>
+        <file>open.png</file>
+        <file>no.png</file>
+        <file>save.png</file>
+        <file>close.png</file>
+        <file>chfolder.jpg</file>
+        <file>start.png</file>
+        <file>saveall.png</file>
+        <file>delete.png</file>
+        <file>saveas.png</file>
+        <file>add.jpg</file>
+        <file>i.jpg</file>
+    </qresource>
+</RCC>
