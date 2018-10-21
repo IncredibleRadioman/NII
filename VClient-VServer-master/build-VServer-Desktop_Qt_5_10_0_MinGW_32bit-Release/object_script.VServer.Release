@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\error.o
+./release\errorlogger.o
+./release\server.o
+./release\connectedclient.o
+./release\screenshot.o
+./release\vserverview.o
+./release\commandexecuter.o
+./release\moc_error.o
+./release\moc_errorlogger.o
+./release\moc_server.o
+./release\moc_connectedclient.o
+./release\moc_screenshot.o
+./release\moc_vserverview.o
+./release\moc_commandexecuter.o
+);

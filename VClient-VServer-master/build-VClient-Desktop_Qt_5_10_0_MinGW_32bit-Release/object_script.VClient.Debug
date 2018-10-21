@@ -1,0 +1,13 @@
+INPUT(
+./debug\main.o
+./debug\vclientwindow.o
+./debug\client.o
+./debug\screenshareview.o
+./debug\vclientview.o
+./debug\filetree.o
+./debug\moc_vclientwindow.o
+./debug\moc_client.o
+./debug\moc_screenshareview.o
+./debug\moc_vclientview.o
+./debug\moc_filetree.o
+);

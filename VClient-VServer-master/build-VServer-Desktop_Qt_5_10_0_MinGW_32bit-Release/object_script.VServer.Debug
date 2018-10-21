@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\error.o
+./debug\errorlogger.o
+./debug\server.o
+./debug\connectedclient.o
+./debug\screenshot.o
+./debug\vserverview.o
+./debug\commandexecuter.o
+./debug\moc_error.o
+./debug\moc_errorlogger.o
+./debug\moc_server.o
+./debug\moc_connectedclient.o
+./debug\moc_screenshot.o
+./debug\moc_vserverview.o
+./debug\moc_commandexecuter.o
+);

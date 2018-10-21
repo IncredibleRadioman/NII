@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\vclientwindow.o
+./release\client.o
+./release\screenshareview.o
+./release\vclientview.o
+./release\filetree.o
+./release\moc_vclientwindow.o
+./release\moc_client.o
+./release\moc_screenshareview.o
+./release\moc_vclientview.o
+./release\moc_filetree.o
+);
