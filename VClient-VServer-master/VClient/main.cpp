@@ -18,7 +18,7 @@
 *   along with VClient/VServer.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-#include <QtGui/QApplication>
+#include <QApplication>
 #include "vclientwindow.h"
 #include "screenshareview.h"
 #include "vclientview.h"

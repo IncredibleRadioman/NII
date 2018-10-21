@@ -29,7 +29,7 @@
 #include <QLabel>
 #include <QMainWindow>
 #include <QMenuBar>
-#include <QMenuItem>
+#include <QMenu>
 #include <QAction>
 #include "client.h"
 #include "screenshareview.h"

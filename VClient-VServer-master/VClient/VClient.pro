@@ -6,6 +6,7 @@
 
 QT       += core gui
 QT       += network
+QT       += widgets
 
 TARGET = VClient
 TEMPLATE = app
