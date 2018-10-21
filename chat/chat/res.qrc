@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/connect.png</file>
+        <file>icons/disconnect.png</file>
+        <file>icons/micro.png</file>
+        <file>icons/micro1.png</file>
+        <file>icons/micro2.png</file>
+        <file>icons/sound1.png</file>
+        <file>icons/sound2.png</file>
+        <file>icons/main.png</file>
+        <file>icons/refresh.png</file>
+    </qresource>
+</RCC>
